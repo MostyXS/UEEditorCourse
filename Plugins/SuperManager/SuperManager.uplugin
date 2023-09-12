@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SuperManager",
+	"Description": "Super Manager For unreal",
+	"Category": "Other",
+	"CreatedBy": "mostyxs",
+	"CreatedByURL": "mostseev2013@gmail.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "SuperManager",
+			
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
